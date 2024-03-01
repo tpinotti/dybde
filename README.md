@@ -18,7 +18,7 @@ samtools view -o Y.ind1.bam ind1.bam Y
 
 ## so?
 
-It only needs a bam and for you to specify which genome reference you have mapped to (37 or 38). e.g.
+As long you have cloned the repository (so you have the src/ folder with the bed files delimiting the 10Mb regions), it only needs a bam and for you to specify which genome reference you have mapped to (37 or 38)
 
 ```
 python dybde.py 37 Y.Ind1.bam > ind1.ydoc
