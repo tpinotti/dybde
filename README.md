@@ -5,7 +5,7 @@ fast estimator of depth of coverage on short-read mappable regions of Y-chromoso
 
 Despite being 58Mb long, only 10Mb of the Y-chromosome is amenable to short-read mapping, due to pervasive repetitive regions (1-3).
 
-Therefore, when estimating depth of coverage from a short-read sequencing experiment, unless this 10Mb region is specified, the result is not readily comparable to autosomes or X-chromosomes.
+Unless this 10Mb region is specified when estimating depth of coverage from a short-read sequencing experiment, the result is not readily comparable to autosomes or X-chromosomes.
 
 ## how?
 
